@@ -1,0 +1,10 @@
+---
+id: arcade-classics-wide
+name: Arcade Classics (wide)
+summary: Classic arcade animations
+desc: Animations from classic arcade video games.
+author: Steve Otteson
+fileName: arcade_classics_wide.star
+packageName: arcadeclassics-wide
+recommended_interval: 5
+supports2x: true
