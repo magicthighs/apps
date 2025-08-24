@@ -17,5 +17,7 @@ def main(config):
     return render.Root(
         render.Box(
             child = render.Image(src = GIFs),
+        width = 128,
+        height = 64,
         ),
     )
