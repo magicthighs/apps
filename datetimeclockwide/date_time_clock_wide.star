@@ -1,5 +1,5 @@
 """
-Applet: Date Time Clock
+Applet: Date Time Clock (wide)
 Summary: Shows full time and date
 Description: Displays the full date and current time for user.
 Author: Alex Miller/AmillionAir
