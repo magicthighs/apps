@@ -171,8 +171,6 @@ def main(config):
                 children = texts,
             ),
         ),
-        width = 128,
-        height = 64,
     )
 
 def get_schema():
