@@ -1,5 +1,5 @@
 """
-Applet: Dutch Fuzzy Clock
+Applet: Dutch Fuzzy Clock (wide)
 Summary: Dutch readable time
 Description: Display the time in the wierd Dutch way.
 Author: Remy Blok
