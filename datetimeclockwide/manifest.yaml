@@ -1,0 +1,10 @@
+---
+id: date-time-clock-wide
+name: Date Time Clock (wide)
+summary: Shows full time and date
+desc: Displays the full date and current time for user.
+author: Alex Miller/AmillionAir
+fileName: date_time_clock_wide.star
+packageName: datetimeclockwide
+recommended_interval: 0
+supports2x: true
