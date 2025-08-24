@@ -1,5 +1,5 @@
 """
-Applet: Day Night Map
+Applet: Day Night Map (wide)
 Summary: Day & Night World Map
 Description: A map of the Earth showing the day and the night. The map is based on Equirectangular (0°) by Tobias Jung (CC BY-SA 4.0).
 Author: Henry So, Jr.
