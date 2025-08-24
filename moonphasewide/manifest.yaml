@@ -1,0 +1,10 @@
+---
+id: moon-phase-wide
+name: Moon Phase (wide)
+summary: Shows current moon phase
+desc: Shows phase of moon based on location.
+author: Chris Wyman
+fileName: moon_phase_wide.star
+packageName: moonphasewide
+recommended_interval: 5
+supports2x: true
