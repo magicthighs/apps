@@ -255,7 +255,7 @@ def pacman_get_frame(xPos, yPos, mspacman, reverse, whichGhost):
 # Space Invaders
 
 BIG_ALIEN_WIDTH = 12
-ALIENS_PER_ROW = 3
+ALIENS_PER_ROW = 6
 SPACE_BETWEEN_ALIENS = 4
 INVADER_ROW_WIDTH = (BIG_ALIEN_WIDTH * ALIENS_PER_ROW) + (SPACE_BETWEEN_ALIENS * (ALIENS_PER_ROW - 1))
 
