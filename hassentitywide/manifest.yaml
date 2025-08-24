@@ -7,3 +7,4 @@ author: InTheDaylight14
 fileName: hass_entity_wide.star
 packageName: hassentity-wide
 recommended_interval: 5
+supports2x: true
