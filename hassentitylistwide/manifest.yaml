@@ -1,0 +1,10 @@
+---
+id: hassentitylistwide
+name: HASS Entity List (wide)
+summary: Show HomeAssistant entitys
+desc: Displays multiple HomeAssistant entities (e.g. step counts).
+author: James Woglom
+fileName: hassentitylistwide.star
+packageName: hassentitylistwide
+recommended_interval: 5
+supports2x: true
