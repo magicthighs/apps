@@ -1,5 +1,5 @@
 """
-Applet: Divbyt
+Applet: Divbyt (wide)
 Summary: Displays gifs from mrdiv 
 Description: Looping geometric animations from animated GIF artist Mr. Div, designed specifically for Tidbyt. A random animation will play each time from a (possibly) expanding pool of GIFs.
 Author: imnotdannorton
