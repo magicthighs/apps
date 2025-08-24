@@ -16,8 +16,8 @@ RED = "#ff0000"
 GREEN = "#00ff00"
 ORANGE = "#db8f00"
 
-WIDTH = 64
-HEIGHT = 32
+WIDTH = 128
+HEIGHT = 64
 
 def newEgg():
     return [random.number(2, WIDTH - 2), random.number(2, HEIGHT - 2)]
