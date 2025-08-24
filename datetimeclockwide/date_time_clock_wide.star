@@ -56,11 +56,11 @@ def main(config):
                     children = [
                         render.Text(
                             content = now.format(time_format_separator),
-                            font = "6x13",
+                            font = "10x20",
                         ),
                         render.Text(
                             content = now.format(time_format_no_separator),
-                            font = "6x13",
+                            font = "10x20",
                         ),
                     ],
                 ),
@@ -69,7 +69,7 @@ def main(config):
                 ),
                 render.Text(
                     content = now_date,
-                    font = "5x8",
+                    font = "6x13",
                 ),
                 render.Box(width = 128, height = 1),
                 render.Box(width = 128, height = 1),
