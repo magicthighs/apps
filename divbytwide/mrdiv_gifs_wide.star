@@ -27,8 +27,8 @@ def main():
             children = [
                 render.Image(
                     src = imgSrc,
-                    # width = 65,
-                    height = 32,
+                    width = 128,
+                    height = 64,
                 ),
             ],
         ),
