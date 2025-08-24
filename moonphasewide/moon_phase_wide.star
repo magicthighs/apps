@@ -1,5 +1,5 @@
 """
-Applet: Moon Phase
+Applet: Moon Phase (wide)
 Summary: Shows current moon phase
 Description: Shows phase of moon based on location.
 Author: Chris Wyman
