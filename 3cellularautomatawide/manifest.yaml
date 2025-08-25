@@ -1,0 +1,10 @@
+---
+id: 3cellularautomatawide
+name: 3CellularAutomata (wide)
+summary: Draws 1D cellular automata
+desc: Draws the evolution of one-dimensional, three-state cellular automata.
+author: dinosaursrarr
+fileName: 3cellularautomatawide.star
+packageName: 3cellularautomata-wide
+recommended_interval: 5
+supports2x: true
