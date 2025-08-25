@@ -2,7 +2,7 @@
 Applet: Dr Who
 Summary: Classic Dr Who Animation
 Description: Classic Dr Who Animation
-Author: me
+Author: magicthighs
 """
 
 load("encoding/base64.star", "base64")
