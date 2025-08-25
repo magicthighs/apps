@@ -1,4 +1,4 @@
-# Not working correctly at x2 yet. Needs a 64x64 version of the moon_phase.gif image.
+# Not working correctly at x2 yet. Needs a 64x64 version of the moon image used.
 
 # Moon Phase Applet for Tidbyt
 
