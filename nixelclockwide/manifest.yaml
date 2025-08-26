@@ -1,0 +1,10 @@
+---
+id: nixel-clock-wide
+name: Nixel Clock (wide)
+summary: A Pixel Nixie Clock
+desc: Nixie Tube Clock + Pixels = Nixel Clock!
+author: Olly Stedall @saltedlolly
+fileName: nixel_clock_wide.star
+packageName: nixelclockwide
+recommended_interval: 0
+supports2x: true
