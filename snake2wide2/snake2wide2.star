@@ -21,7 +21,7 @@ DELAY_PER_FRAME_MS = 20
 CELL_SIZE = 1
 STARTING_SNAKE_SIZE = 3
 
-BLANK_CELL = render.Box(width = CELL_SIZE, height = CELL_SIZE, color = "#808080")
+BLANK_CELL = render.Box(width = CELL_SIZE, height = CELL_SIZE, color = "#101010")
 APPLE_CELL = render.Box(width = CELL_SIZE, height = CELL_SIZE, color = "#9cf774")
 SNAKE_CELL = render.Box(width = CELL_SIZE, height = CELL_SIZE, color = "#5ff")
 
