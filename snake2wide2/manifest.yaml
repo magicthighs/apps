@@ -1,0 +1,10 @@
+---
+id: snake2wide2
+name: Snake 2 (wide) 2
+summary: Another snake game
+desc: Watch snake play out.
+author: dgoldstein1
+fileName: snake2wide2.star
+packageName: snake2wide2
+recommended_interval: 5
+supports2x: true
