@@ -53,7 +53,7 @@ def render_entity(entity_id, config):
     if not fetch:
         return 0, None
 
-    count = int(fetch["state"])
+    count = float(fetch["state"])
     unit = ""
     if config.bool("show_units") and "attributes" in fetch and "unit_of_measurement" in fetch["attributes"]:
         unit = fetch["attributes"]["unit_of_measurement"] + " "
