@@ -1,0 +1,10 @@
+---
+id: ha_now_playing
+name: HA Now Playing
+summary: Shows what a HA media player is playing
+desc: HA Now Playing.
+author: motoridersd
+fileName: ha_now_playing.star
+packageName: ha_now_playing
+recommended_interval: 5
+supports2x: true
